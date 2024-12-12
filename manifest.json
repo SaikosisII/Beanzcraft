@@ -12,7 +12,7 @@
   "manifestVersion": 1,
   "name": "BeanzPack",
   "version": "0.0.3",
-  "author": "",
+  "author": "LostBeanz",
   "files": [
     {
       "projectID": 241895,
@@ -30,8 +30,18 @@
       "required": true
     },
     {
+      "projectID": 312195,
+      "fileID": 3474382,
+      "required": true
+    },
+    {
       "projectID": 253043,
       "fileID": 4623135,
+      "required": true
+    },
+    {
+      "projectID": 253211,
+      "fileID": 3308160,
       "required": true
     },
     {
@@ -52,6 +62,11 @@
     {
       "projectID": 448233,
       "fileID": 5170009,
+      "required": true
+    },
+    {
+      "projectID": 239197,
+      "fileID": 5486112,
       "required": true
     },
     {
@@ -122,6 +137,11 @@
     {
       "projectID": 238551,
       "fileID": 2744766,
+      "required": true
+    },
+    {
+      "projectID": 435298,
+      "fileID": 3311656,
       "required": true
     },
     {
@@ -227,6 +247,11 @@
     {
       "projectID": 558998,
       "fileID": 5286238,
+      "required": true
+    },
+    {
+      "projectID": 220954,
+      "fileID": 3840577,
       "required": true
     },
     {
@@ -612,11 +637,6 @@
     {
       "projectID": 70496,
       "fileID": 4675629,
-      "required": true
-    },
-    {
-      "projectID": 238086,
-      "fileID": 3052392,
       "required": true
     },
     {
