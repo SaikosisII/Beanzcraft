@@ -16,7 +16,7 @@ Property of Beanzcraft © 2024
 
 Changelog:
 --------------
-  -  12/12/2024 @ 1:18 PM: Experimental 0.0.3.1 released;
+  -  12/12/2024 @ 1:18 AM: Experimental 0.0.3.1 released;
       > Initial creation for FTB Quests.
       > Quests include the following:
       > 
