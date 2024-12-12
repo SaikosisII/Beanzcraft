@@ -1,5 +1,5 @@
 # Beanzpack
-Development of a Minecraft Modpack, development shared amongst the following:
+Development of a tech and magic quest-based 1.12.2 Minecraft modpack. Developer duties are shared amongst the following:
 
 • LostBeanz
 
