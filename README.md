@@ -9,6 +9,9 @@ Development of a Minecraft Modpack, development shared amongst the following:
 
 • SearchEngine01
 
+
+*If there has been undocumented changes unconfirmed by any of the above, do NOT download the repo.*
+
 Property of Beanzcraft © 2024
 
 Changelog:
