@@ -28,8 +28,11 @@ Changelog:
 
   -  12/11/2024 @ 11:27 PM: Experimental 0.0.3 released;
       > • removed KubeJS, replaced w/ CraftTweaker
-      > • added ModTweaker
-      > • added ctintegration
-      > • added EnderTweaker
       > 
+      > • added ModTweaker
+      > 
+      > • added ctintegration
+      > 
+      > • added EnderTweaker
+  
   -  12/11/2024: Initial development started.
