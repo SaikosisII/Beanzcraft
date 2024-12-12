@@ -14,9 +14,10 @@ Development of a Minecraft Modpack, development shared amongst the following:
 
 Property of Beanzcraft © 2024
 
-Changelog:
+##Changelog:
 --------------
   -  12/11/2024 @ 11:27 PM: Experimental 0.0.3 released;
+
       • removed KubeJS, replaced w/ CraftTweaker
      
       • added ModTweaker
