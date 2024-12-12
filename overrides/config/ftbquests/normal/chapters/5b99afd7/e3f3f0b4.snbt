@@ -1,0 +1,29 @@
+{
+	title: "&dVeinmining Made Easy",
+	icon: {
+		id: "ftbquests:custom_icon",
+		tag: {
+			icon: "ftblib:textures/icons/support.png"
+		}
+	},
+	x: -1.5d,
+	y: 0.0d,
+	description: "Doesn't get any better than this!",
+	text: [
+		"By default, Ultimine is activated using the &eGrave&r key. (The Grave key is typically the key below the Escape button)",
+		"",
+		"Holding down the Grave key while moving your scrollwheel will change how Ultimine digs.",
+		"Ultimine will always dig a maximum of 64 blocks in any direction as long as the blocks are matching."
+	],
+	optional: true,
+	tasks: [{
+		uid: "034c5650",
+		type: "checkmark",
+		icon: {
+			id: "ftbquests:custom_icon",
+			tag: {
+				icon: "ftblib:textures/icons/bell.png"
+			}
+		}
+	}]
+}

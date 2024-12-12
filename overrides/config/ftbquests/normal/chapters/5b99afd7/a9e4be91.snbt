@@ -1,0 +1,22 @@
+{
+	title: "Pocket Crafting Table",
+	x: 1.5d,
+	y: -1.0d,
+	description: "Now we can craft on the go!",
+	text: [
+		"You no longer have to carry a crafting table around with you anymore!"
+	],
+	dependencies: [
+		"f4b893b1"
+	],
+	optional: true,
+	tasks: [{
+		uid: "3ea02dcb",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:item_crafter_on_a_stick"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

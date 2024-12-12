@@ -1,0 +1,11 @@
+{
+	x: -1.5d,
+	y: 1.5d,
+	tasks: [{
+		uid: "15cee8cf",
+		type: "item",
+		items: [{
+			item: "draconicevolution:draconic_core"
+		}]
+	}]
+}

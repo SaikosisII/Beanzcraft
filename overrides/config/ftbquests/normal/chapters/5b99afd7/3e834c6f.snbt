@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: -1.5d,
+	tasks: [{
+		uid: "e7b896db",
+		type: "item",
+		items: [{
+			item: "minecraft:stone_pickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

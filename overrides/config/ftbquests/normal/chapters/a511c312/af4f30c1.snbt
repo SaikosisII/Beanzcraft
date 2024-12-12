@@ -1,0 +1,33 @@
+{
+	title: "Beginning of the End",
+	x: 0.0d,
+	y: 0.0d,
+	shape: "gear",
+	description: "Powerful, yet Lethal",
+	text: [
+		"Draconic Evolution is a powerful mod that allows you to craft one of the strongest armors in the modpack.",
+		"",
+		"It is also a technical mod, as it has its own power generation and an endgame reactor... that can explode, we'll get into that later.",
+		"For now, observing some draconium ore in either the &aOverworld&r, the &cNether&r or the &dEnd&r shall suffice."
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "a589d4ac",
+		type: "observation",
+		title: "&aObserve:&r Draconium Ore",
+		icon: "draconicevolution:draconium_ore",
+		match_type: "block_id",
+		match: "draconicevolution:draconium_ore",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "61c13db9",
+		type: "item",
+		item: "draconicevolution:info_tablet"
+	},
+	{
+		uid: "3b881803",
+		type: "xp",
+		xp: 15
+	}]
+}

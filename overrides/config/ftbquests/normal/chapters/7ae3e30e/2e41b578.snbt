@@ -1,0 +1,30 @@
+{
+	title: "&dWelcome to Beanzpack!",
+	icon: "harvestcraft:beanitem",
+	x: 0.0d,
+	y: 0.0d,
+	shape: "gear",
+	description: "Made by friends, for friends.",
+	text: [
+		"Welcome to Beanzpack! Made by friends, for friends.",
+		"",
+		"To start questing, check the left-side of the quest menu to jump in!",
+		"",
+		"All of the quest pages, excluding optional quest tabs will reward trophies upon completing the final chapter goal!",
+		"",
+		"Tip: No mods are gated by quests. Complete at your own pace."
+	],
+	size: 2.0d,
+	optional: true,
+	tasks: [{
+		uid: "64a44a7c",
+		type: "checkmark",
+		title: "Welcome to Beanzpack!",
+		icon: "props:props 1 141"
+	}],
+	rewards: [{
+		uid: "87b20a83",
+		type: "xp",
+		xp: 10
+	}]
+}

@@ -1,0 +1,29 @@
+{
+	title: "&bTeam Creation",
+	icon: {
+		id: "ftbquests:custom_icon",
+		tag: {
+			icon: "ftblib:textures/gui/teams.png"
+		}
+	},
+	x: -2.0d,
+	y: 0.0d,
+	shape: "diamond",
+	text: [
+		"Teams will share quest progress with each member.",
+		"If quests are completed by teammates while you are offline, they will auto-complete as you return!",
+		"",
+		"By default, solo teams are created to open the questbook. You can invite more players by clicking the Team icon in the top left of your inventory or using &e/team&r!"
+	],
+	size: 1.5d,
+	optional: true,
+	tasks: [{
+		uid: "a1d6c7c0",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "ab883bb6",
+		type: "xp",
+		xp: 5
+	}]
+}

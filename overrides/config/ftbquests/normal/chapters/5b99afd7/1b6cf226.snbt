@@ -1,0 +1,33 @@
+{
+	title: "Rudimentary Tree Punching",
+	x: 0.0d,
+	y: 0.0d,
+	shape: "hexagon",
+	description: "Is this considered natural abuse?",
+	size: 1.5d,
+	tasks: [{
+		uid: "cffe863c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "logWood",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any logWood"
+				}
+			}
+		}],
+		count: 4L
+	}],
+	rewards: [{
+		uid: "f9ad6309",
+		type: "choice",
+		icon: "props:props 1 1688",
+		table: 0
+	}]
+}

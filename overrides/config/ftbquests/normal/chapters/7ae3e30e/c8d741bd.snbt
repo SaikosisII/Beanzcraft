@@ -1,0 +1,30 @@
+{
+	title: "&eChunk Claiming",
+	icon: {
+		id: "ftbquests:custom_icon",
+		tag: {
+			icon: "ftblib:textures/icons/globe.png"
+		}
+	},
+	x: 2.25d,
+	y: 0.0d,
+	shape: "diamond",
+	text: [
+		"Claiming Chunks For Yourself or Your Team",
+		"",
+		"In your inventory at the top left is a map icon, clicking it opens an integrated FTB chunk map.",
+		"Holding and dragging left-click will claim chunks.",
+		"Shift-left clicking chunks will chunkload these claimed chunks."
+	],
+	size: 1.5d,
+	optional: true,
+	tasks: [{
+		uid: "f9f89458",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "b880b2cf",
+		type: "xp",
+		xp: 5
+	}]
+}

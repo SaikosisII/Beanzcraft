@@ -1,0 +1,11 @@
+{
+	x: 0.0d,
+	y: 1.5d,
+	tasks: [{
+		uid: "fc2e9312",
+		type: "item",
+		items: [{
+			item: "draconicevolution:energy_infuser"
+		}]
+	}]
+}

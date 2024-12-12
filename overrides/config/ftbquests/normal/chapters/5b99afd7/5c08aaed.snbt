@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: -1.5d,
+	tasks: [{
+		uid: "ce278457",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_pickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

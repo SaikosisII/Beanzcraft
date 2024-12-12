@@ -1,0 +1,18 @@
+{
+	title: "Heart of any Workshop",
+	x: 2.5d,
+	y: 0.0d,
+	shape: "gear",
+	description: "Missing some tools, are we?",
+	dependencies: [
+		"1b6cf226"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "235b1513",
+		type: "item",
+		items: [{
+			item: "minecraft:crafting_table"
+		}]
+	}]
+}

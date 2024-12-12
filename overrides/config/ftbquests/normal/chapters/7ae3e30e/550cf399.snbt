@@ -1,0 +1,27 @@
+{
+	title: "Useful Commands",
+	icon: {
+		id: "ftbquests:custom_icon",
+		tag: {
+			icon: "ftblib:textures/icons/star.png"
+		}
+	},
+	x: 0.0d,
+	y: 2.0d,
+	shape: "diamond",
+	text: [
+		"/sethome <home> | Creates a home teleport without needing a bed.",
+		"/home <home> | Returns you to your home point."
+	],
+	size: 1.5d,
+	optional: true,
+	tasks: [{
+		uid: "f0a0dede",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "0c18f1ab",
+		type: "xp",
+		xp: 5
+	}]
+}

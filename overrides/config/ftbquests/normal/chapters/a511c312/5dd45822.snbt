@@ -1,0 +1,11 @@
+{
+	x: 1.5d,
+	y: 0.0d,
+	tasks: [{
+		uid: "c76a18f3",
+		type: "item",
+		items: [{
+			item: "draconicevolution:draconium_dust"
+		}]
+	}]
+}
