@@ -1,9 +1,9 @@
 # Beanzpack
 Development of a Minecraft Modpack, development shared amongst the following:
 
-• Beanz
+• LostBeanz
 
-• Saikosis
+• SaikosisII
 
 • Happy
 
@@ -16,4 +16,9 @@ Property of Beanzcraft © 2024
 
 Changelog:
 --------------
+  -  12/11/2024 @ 11:27 PM: Experimental 0.0.3 released;
+      • removed KubeJS, replaced w/ CraftTweaker
+      • added ModTweaker
+      • added ctintegration
+      • added Endertweaker 
   -  12/11/2024: Initial development started.
