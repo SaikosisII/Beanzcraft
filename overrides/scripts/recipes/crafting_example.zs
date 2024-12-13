@@ -1,16 +1,8 @@
-//These imports are NOT required for most of the crafting table operations.
-//They're only used in some operations and even then only the first one is required.
-
-import crafttweaker.api.recipe.MirrorAxis;
-import crafttweaker.api.tag.type.KnownTag;
-import crafttweaker.api.item.ItemDefinition;
-import crafttweaker.api.item.IItemStack;
-import crafttweaker.api.text.Component;
-import crafttweaker.api.data.ListData;
-import crafttweaker.api.item.component.ItemEnchantments;
-
-
-Globals.startScript("crafting_table");
+//imports
+import crafttweaker.item.IIngredient;
+import crafttweaker.item.IItemStack;
+import crafttweaker.oredict.IOreDict;
+import crafttweaker.oredict.IOreDictEntry;
 
 //There are two kinds of recipes: Shaped and shapeless
 //Shaped means that the order of items in the crafting table matters (e.g. for tools)
@@ -48,6 +40,3 @@ recipes.addShaped(name, output,
   [input,input,input],
   [input,input,input]]);
 */
-
-
-Globals.endScript("crafting_table");
