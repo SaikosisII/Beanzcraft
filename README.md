@@ -16,6 +16,17 @@ Property of Beanzcraft © 2024
 
 Changelog:
 --------------
+  -  12/12/2024 @ 7:51 PM: 0.0.3.3 released;
+      > • Reorganized Scripts folder
+      > 
+      > • Removed crafting recipe for ExtraUtils Angel Ring
+      >
+      > • Removed Angel Ring to Bauble mod
+      >
+      > • Removed Trashcans mod
+      >
+      > • Added Ding! mod
+
   -  12/12/2024 @ 1:18 AM: Experimental 0.0.3.1 released;
       > Initial creation for FTB Quests.
       > Quests include the following:
