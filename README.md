@@ -16,6 +16,13 @@ Property of Beanzcraft © 2024
 
 Changelog:
 --------------
+  -  12/14/2024 @ 2:16 PM: 0.0.3.4 released;
+      > • Added ProjectE
+      >   > All EMC values except the Nether Star are removed by default.
+      > 
+      > • Added Resource Loader
+      >
+      > • Finished first chapter of questbook; more detailing may occur later
   -  12/12/2024 @ 7:51 PM: 0.0.3.3 released;
       > • Reorganized Scripts folder
       > 
