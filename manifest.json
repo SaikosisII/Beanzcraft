@@ -10,9 +10,9 @@
   },
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "BeanzPack-0.0.3.3",
-  "version": "0.0.3.3",
-  "author": "",
+  "name": "BeanzPack",
+  "version": "0.0.3.4",
+  "author": "Lost_Beanz, SaikosisII",
   "files": [
     {
       "projectID": 231275,
