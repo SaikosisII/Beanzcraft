@@ -18,17 +18,27 @@ Changelog:
 --------------
   -  1/15/2025 @ 5:25 PM: DEV-0.0.3.5 released;
       > • Updated CraftTweaker
+      > 
       > • Updated Fusion
+      > 
       > • Updated Journey Map
+      > 
       > • Updated MixinBooter
+      > 
       > • Updated SuperMartijn642's Core Lib
       > 
-      > •  Added Clumps  
+      > •  Added Clumps
+      > 
       > •  Added Geographicraft
+      > 
       > •  Added Hwyla
+      > 
       > •  Added Lootr
+      > 
       > •  Added More Planets - Galacticraft Add-on
+      > 
       > •  Added Super Sound Muffler: Revived
+      > 
       > •  Added Simply Jetpacks 2
       > 
       > •  Updated World Gen Configs to enable BOP biomes in normal generation and to encourage larger biome generation
