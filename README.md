@@ -27,6 +27,7 @@ Changelog:
       > 
       > • Updated SuperMartijn642's Core Lib
       > 
+      > 
       > •  Added Clumps
       > 
       > •  Added Geographicraft
@@ -40,6 +41,7 @@ Changelog:
       > •  Added Super Sound Muffler: Revived
       > 
       > •  Added Simply Jetpacks 2
+      > 
       > 
       > •  Updated World Gen Configs to enable BOP biomes in normal generation and to encourage larger biome generation
   -  12/14/2024 @ 2:16 PM: 0.0.3.4 released;
