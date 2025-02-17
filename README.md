@@ -16,6 +16,8 @@ Property of Beanzcraft © 2024
 
 Changelog:
 --------------
+-  2/17/2025 @ 1:00 PM: DEV-0.0.3.8 released;
+      > • Disabled Duplicate PlusTIC Materials
 -  2/17/2025 @ 11:14 AM: DEV-0.0.3.7 released;
       > • Fixed Crash on World Load
       > 
