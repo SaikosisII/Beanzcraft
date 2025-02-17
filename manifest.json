@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "BeanzPack-DEV",
-  "version": "DEV-0.0.3.6",
+  "version": "DEV-0.0.3.7",
   "author": "Lost_Beanz and SaikosisII",
   "files": [
     {
@@ -85,8 +85,8 @@
       "required": true
     },
     {
-      "projectID": 223896,
-      "fileID": 2680892,
+      "projectID": 231382,
+      "fileID": 3408276,
       "required": true
     },
     {
@@ -95,8 +95,8 @@
       "required": true
     },
     {
-      "projectID": 231382,
-      "fileID": 3408276,
+      "projectID": 223896,
+      "fileID": 2680892,
       "required": true
     },
     {
@@ -315,13 +315,13 @@
       "required": true
     },
     {
-      "projectID": 239286,
-      "fileID": 4075832,
+      "projectID": 268250,
+      "fileID": 3382321,
       "required": true
     },
     {
-      "projectID": 268250,
-      "fileID": 3382321,
+      "projectID": 239286,
+      "fileID": 4075832,
       "required": true
     },
     {
@@ -462,11 +462,6 @@
     {
       "projectID": 223794,
       "fileID": 2747063,
-      "required": true
-    },
-    {
-      "projectID": 371784,
-      "fileID": 4975229,
       "required": true
     },
     {
@@ -617,11 +612,6 @@
     {
       "projectID": 363856,
       "fileID": 2886150,
-      "required": true
-    },
-    {
-      "projectID": 277736,
-      "fileID": 4970105,
       "required": true
     },
     {
@@ -950,11 +940,6 @@
       "required": true
     },
     {
-      "projectID": 282613,
-      "fileID": 2825260,
-      "required": true
-    },
-    {
       "projectID": 258944,
       "fileID": 2663561,
       "required": true
@@ -1036,7 +1021,7 @@
     },
     {
       "projectID": 321139,
-      "fileID": 6103431,
+      "fileID": 6203174,
       "required": true
     },
     {

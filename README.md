@@ -16,6 +16,16 @@ Property of Beanzcraft © 2024
 
 Changelog:
 --------------
+-  2/17/2025 @ 11:14 AM: DEV-0.0.3.7 released;
+      > • Fixed Crash on World Load
+      > 
+      > • Updated Fish's Undead Rising
+      > 
+      > • Removed Immersive Railroading
+      > 
+      > • Removed Track API
+      > 
+      > • Removed Universal Mod Core
  -  2/16/2025 @ 3:36 PM: DEV-0.0.3.6 released;
       > • Updated Fusion
       > 
