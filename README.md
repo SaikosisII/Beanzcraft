@@ -16,6 +16,64 @@ Property of Beanzcraft © 2024
 
 Changelog:
 --------------
+-  4/21/2025 @ 5:37 PM: DEV-0.0.3.9 released;
+      > • Battle tower frequency 4x reduced
+      > 
+      > • Vampire Hunter camp frequency 4x reduced
+      > 
+      > • Duplicate ores patched
+      > 
+      > • Rebalanced Cyclic items
+      > 
+      > • Rebalanced Reliquary items
+      > 
+      > • Added Binnies Mods Patched
+      > 
+      > • Added Camera Mod
+      > 
+      > • Added Colossal Chests
+      > 
+      > • Added Forestry
+      > 
+      > • Added JEI Bees
+      > 
+      > • Added Simple Storage Network
+      > 
+      > • Added Translocators
+      > 
+      > • Replaced More Planets with Extra Planets
+      > 
+      > • Updated Fermium Booter Depoliticization
+      > 
+      > • Updated Fusion
+      > 
+      > • Updated HammerLib
+      > 
+      > • Updated JAOPCA
+      > 
+      > • Updated MixinBooter
+      > 
+      > • Updated Render Lib
+      > 
+      > • Updated Roughly Enough IDs
+      > 
+      > • Updated Security Craft
+      > 
+      > • Updated The Aether
+      > 
+      > • Removed Lost Cities
+      > 
+      > • Removed Starter Kit
+      > 
+      > • Removed Waystones
+      > 
+      > • Updated CB Multipart
+      > 
+      > • Updated Fish's Undead Rising
+      > 
+      > • Updated Nothirium
+      > 
+      > • Updated RenderLib
 -  2/17/2025 @ 1:00 PM: DEV-0.0.3.8 released;
       > • Disabled Duplicate PlusTIC Materials
 -  2/17/2025 @ 11:14 AM: DEV-0.0.3.7 released;
