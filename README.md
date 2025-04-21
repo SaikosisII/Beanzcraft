@@ -43,7 +43,17 @@ Changelog:
       > 
       > • Replaced More Planets with Extra Planets
       > 
+      > • Removed Lost Cities
+      > 
+      > • Removed Starter Kit
+      > 
+      > • Removed Waystones
+      >  
+      > • Updated CB Multipart
+      > 
       > • Updated Fermium Booter Depoliticization
+      > 
+      > • Updated Fish's Undead Rising
       > 
       > • Updated Fusion
       > 
@@ -53,6 +63,8 @@ Changelog:
       > 
       > • Updated MixinBooter
       > 
+      > • Updated Nothirium
+      > 
       > • Updated Render Lib
       > 
       > • Updated Roughly Enough IDs
@@ -60,20 +72,6 @@ Changelog:
       > • Updated Security Craft
       > 
       > • Updated The Aether
-      > 
-      > • Removed Lost Cities
-      > 
-      > • Removed Starter Kit
-      > 
-      > • Removed Waystones
-      > 
-      > • Updated CB Multipart
-      > 
-      > • Updated Fish's Undead Rising
-      > 
-      > • Updated Nothirium
-      > 
-      > • Updated RenderLib
 -  2/17/2025 @ 1:00 PM: DEV-0.0.3.8 released;
       > • Disabled Duplicate PlusTIC Materials
 -  2/17/2025 @ 11:14 AM: DEV-0.0.3.7 released;
